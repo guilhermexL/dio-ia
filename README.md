@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img width="1000" src="LINK_DA_CAPA" alt="Capa do eBook">
+    <img width="1000" src="./assets/capa.png" alt="Capa do eBook">
 </p>
 
 # Sobre o eBook
@@ -12,16 +12,14 @@ Este projeto tem como objetivo a criação de um eBook utilizando ferramentas de
 
 > ℹ️ **Nota:** O conteúdo foi gerado com o auxílio de IAs, podendo conter imprecisões. A curadoria e diagramação foram feitas manualmente.
 
-📕 [Clique aqui para ler o eBook](LINK_DO_PDF)
+📕 [Clique aqui para ler o eBook](./assets/ebook-minimalismo.pdf)
 
 ---
 
 ## Tecnologias Utilizadas
 
 * [ChatGPT](https://chat.openai.com/) — Geração de conteúdo textual
-* [LeonardoAI](https://leonardo.ai/) — Criação de imagens
 * [Canva](https://www.canva.com/) — Diagramação e edição visual
-* [LexicaArt](https://lexica.art/) — Ilustrações baseadas em prompts
 
 ---
 
@@ -29,30 +27,11 @@ Este projeto tem como objetivo a criação de um eBook utilizando ferramentas de
 
 ### **ChatGPT** – Títulos e Conteúdo:
 
-| Ação     | Prompt                                                                                                                                                        |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Título   | crie títulos criativos para um eBook sobre \[TEMA] com linguagem envolvente e tom \[profissional/divertido/etc.]                                              |
-| Título   | reformule esse título focando mais em \[UX/Design/IA/etc.]                                                                                                    |
-| Conteúdo | crie um conteúdo para um eBook com foco em \[tema], listando os principais tópicos e explicando de forma simples, com exemplos práticos e linguagem acessível |
-| Conteúdo | detalhe cada um dos tópicos anteriores, como se fossem capítulos do eBook                                                                                     |
-
----
-
-### **LeonardoAI** – Capa:
-
-| Imagem | Prompt                                                                                                   |
-| ------ | -------------------------------------------------------------------------------------------------------- |
-| Capa   | \[Descreva aqui seu prompt para capa, com detalhes sobre o estilo visual, cenário e elementos desejados] |
-
----
-
-### **LexicaArt** – Ilustrações:
-
-| Página | Prompt                          |
-| ------ | ------------------------------- |
-| 3      | \[Prompt da imagem da página 3] |
-| 7      | \[Prompt da imagem da página 7] |
-| ...    | ...                             |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Título  | Crie títulos épicos com a temática minimalista criativa para um ebook sobre o uso da inteligência artificial e como podemos saber como usá-las                                                       |                                                    |
+| Conteúdo | Título: Minimalismo Algorítmico. Crie um conteúdo para ebook, com foco em boas práticas, listando os pilares para criar um design que gere uma ótima experiência ao usuário. Regras: Explique sempre de maneira simples, deixe o texto enxuto, sempre traga exemplos em contextos reais e sempre deixe um título sugestivo por tópico |
+| Conteúdo | Agora poderia detalhar cada tópico citado anteriormente? uma vez que cada um será um capítulo |                                                                                    |
 
 ---
 
