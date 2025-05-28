@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-    <img width="1000" src="./assets/capa.png" alt="Capa do eBook">
+    <img width="500" src="./assets/capa.png" alt="Capa do eBook">
 </p>
 
 # Sobre o eBook
