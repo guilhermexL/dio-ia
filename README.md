@@ -38,8 +38,7 @@ Este projeto tem como objetivo a criação de um eBook utilizando ferramentas de
 ## Funcionalidades
 
 * Textos criados com auxílio do ChatGPT
-* Imagens geradas por LeonardoAI, editadas no Canva
-* Ilustrações criadas via prompts no LexicaArt
+* Imagens editadas no Canva
 * eBook final diagramado manualmente
 
 ---
